@@ -1,4 +1,4 @@
-package com.example.validatepassword.entity;
+package com.example.validatepassword.domain.entity;
 
 public class Password {
 

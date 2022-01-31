@@ -1,6 +1,6 @@
 package com.example.validatepassword.controller;
 
-import com.example.validatepassword.entity.Password;
+import com.example.validatepassword.domain.entity.Password;
 import com.example.validatepassword.service.PasswordService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

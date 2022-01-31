@@ -1,6 +1,6 @@
 package com.example.validatepassword.service;
 
-import com.example.validatepassword.entity.Password;
+import com.example.validatepassword.domain.entity.Password;
 import org.springframework.stereotype.Service;
 
 @Service
